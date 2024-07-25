@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+   position: absolute;
+   top: 0;
+   z-index: -1;
+}
+
+div {
+   width: 300px;
+   height: 150px;
+}
+
+h1,p {
+   padding: 3px;
+   user-select:text;
+   background-color: aquamarine;
+   text-align: justify;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+html, body {
+   overflow: hidden;
+}

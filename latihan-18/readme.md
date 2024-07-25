@@ -1,0 +1,1 @@
+# Camera Orthografik membuat object 3D dalam yang diproyeksikan dengan 2D, Mesh Sprite membuat object selalu menghadap ke kamera

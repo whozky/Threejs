@@ -1,0 +1,1 @@
+# belajar membuat object yang banyak tanpa menurunkan performa (instance mesh)
